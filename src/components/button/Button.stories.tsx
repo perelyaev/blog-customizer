@@ -6,7 +6,7 @@ const meta: Meta<typeof Button> = {
 	component: Button,
 };
 
-export default meta;
+export default meta; 
 type Story = StoryObj<typeof Button>;
 
 export const ButtonStory: Story = {
